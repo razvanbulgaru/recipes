@@ -7,7 +7,13 @@ Ingredients:
  - 1 teaspoon salt
  - 2 eggs
  - 1 cup milk
+<<<<<<< HEAD
  - 1/2 cup canola oil
+||||||| merged common ancestors
+ - 1/2 cup vegetable oil
+=======
+ - 3/4 cup vegetable oil
+>>>>>>> b6ce5b5fcee732aa17a37bef9f0950c6fb8702f7
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
